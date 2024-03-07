@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss","cores.scss"],"names":[],"mappings":"AAEA;EACI,kBCHW","file":"../main.css","sourcesContent":["@use 'cores';\r\n\r\nbody {\r\n    background-color: cores.$corPrincipal;\r\n}","$corPrincipal: rgb(101, 181, 192);"]}
